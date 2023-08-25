@@ -2,8 +2,9 @@
 A collection of personal Python projects based on the 100 Days of Code course on Udemy by Dr. Angela Yu. 
 
 Day 11 - Blackjack ASCII/Console Game  
-Day 16 - Coffee Maker OOP Project  
-Day 17 - OOP Quiz (with Trivia Questions from Database)  
+Day 16 - Coffee Maker OOP Project
+* h
+Day 17 - Quiz Project (with Trivia Questions from Database)  
 Day 18 - Hirst Painting Project  
 Day 18 - Turtle GUI  
 Day 19 - Etch A Sketch Project  
