@@ -49,4 +49,4 @@ A collection of personal Python projects based on the 100 Days of Code course on
   * Simple Mail Transfer Protocol (SMTP)  
   * Cloud  
   * DateTime     
-Note: Projects on earlier / excluded dates were deemed trivial.
+* Note: Projects on earlier / excluded dates were deemed trivial.
