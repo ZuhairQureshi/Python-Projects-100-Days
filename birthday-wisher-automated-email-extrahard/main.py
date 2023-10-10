@@ -8,7 +8,7 @@ import random
 # Check if today matches a birthday in the birthdays.csv
 
 my_user = "zuhair.qureshi5@gmail.com"
-my_pass = "xarocztdkbojqrgn"
+my_pass = "abcdefghijk"   # PURPOSELY EDITED FOR SECURITY PURPOSES
 
 # Create the current time datetime object and create a birthday inventory
 now = dt.datetime.now()
